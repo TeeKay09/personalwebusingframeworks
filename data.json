@@ -1,0 +1,36 @@
+{
+    "user" : {
+        "fullName": "Takudzwa Ndlovu",
+        "photo" : "selfie.jpeg"
+    },
+    "city" : {
+        "name" : "Harare",
+        "photo" : "cityHarare.jfif",
+        "description" : "Harare is the capital of Zimbabwe. On the edge of landscaped Harare Gardens, the National Gallery of Zimbabwe has a large collection of African contemporary art and traditional pieces like baskets, textiles, jewelry and musical instruments. The unusual granite formation Epworth Balancing Rocks is southeast of the city. Wildlife such as zebras and giraffes roam Mukuvisi Woodlands, which has bike paths and a bird park"
+    },
+    "foreignLanguage" : {
+        "language" : "French",
+        "phrases" : [{
+            "englishPhrase" : "Hello",
+            "foreignLanguage" : "Bonjour"
+        },
+        {
+            "englishPhrase" : "Beautiful",
+            "foreignLanguage" : "Belle"
+        }]
+    },
+    "favouriteSubjects" : [
+        {
+            "name" : "Physics",
+            "description" : ""
+        },
+        {
+            "name" : "Biology",
+            "description" : ""
+        },
+        {
+            "name" : "Mathematics",
+            "description" : ""
+        }
+    ]
+}
